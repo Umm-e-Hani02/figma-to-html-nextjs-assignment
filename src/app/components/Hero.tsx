@@ -8,7 +8,7 @@ export default function Hero(){
 
                 <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet <br/> sint. Velit officia consequat duis enim velit mollit. Exercitation veniam <br/> consequat sunt nostrud amet.</p>
                 
-                <button className="text-sm font-semibold bg-red-300 py-2 px-4 text-white rounded hover:bg-red-600 drop-shadow-xl">
+                <button className="text-sm font-semibold bg-red-300 py-2 px-4 text-white hover:bg-red-600 drop-shadow-xl">
                     <a href="#">Download Resume</a>
                 </button>
 
